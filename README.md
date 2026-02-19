@@ -2,7 +2,7 @@
 
 🗝️ But du projet : Créer un tableau de bord RH pour visualiser les indicateurs clés liés aux effectifs, à la performance et au turnover des employés à partir de données réelles issues de Kaggle.
 
-🔍 Objectif du projet : Comprendre les tendances RH d’une entreprise fictive : évolution des effectifs, départs, performances par service, et proposer des pistes d’amélioration pour la gestion des ressources humaines.
+🔍 Objectif du projet : Comprendre les tendances RH d’une entreprise: évolution des effectifs, départs, performances par service, et proposer des pistes d’amélioration pour la gestion des ressources humaines.
 
 🛠 Outils & Technologies : • Power BI • Power Query • DAX • Excel • Dataset Kaggle RH
 
